@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UAV/UAV.mtl</file>
+        <file>UAV/UAV.obj</file>
+    </qresource>
+</RCC>

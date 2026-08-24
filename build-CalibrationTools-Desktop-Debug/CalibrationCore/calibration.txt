@@ -1,0 +1,10 @@
+# Calibration parameters
+# Format: rotation matrix (3x3) + translation (3x1)
+
+rotation:
+0.999048 -0.018916 0.0393044 
+0 0.901077 0.433659 
+-0.0436194 -0.433246 0.900219 
+
+translation:
+-0.065 0.089 0.055
